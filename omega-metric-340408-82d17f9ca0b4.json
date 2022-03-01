@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "omega-metric-340408",
+  "private_key_id": "82d17f9ca0b410ea17fd4a2998e9c65e899fd103",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDkEAwyhqtFNKNm\nbv4P9H29X6xrvTuyjWYM4TwG2OcFrVVxkLzbVPvnPr829yn9qYxfFGCLJrjiHu20\nPYR3AfzOLLITj8WlOh0xL1Sf7adKZ4z12kjd8G/wvuuGz8bnM7t5G520bKRwef5o\noIxn5Qe4c5erL5e28yIFoQETNF5G2ms5bAVfXfSI7a/Uvj/ZZsftTgRMMs40+mbV\n9NIzEnr7ZQakWlgNryLEpHUJmyscGA9uRl+a0jPKr950qBAXmxYpb6pcBUbvSi5+\nuKT9MzfWqLttJE4FTQRLe4GU6w4Fi/OKfFPUMcbFEwb9x2B/WqOw0J1BNgEXb4Qk\nvHUc9v1RAgMBAAECggEAKQ82kvYp6ajDblK3TPoQlUKfUTpdgBTy9YirfPQaC6yc\nQHj1d2uCeqySUnwHRFL9IbUSeJr9GEDHPPcCXUavVBM58EmnJMskrFFAJBbuUnf4\nKd8l1UdPcAF/d+L6hW+L5g7xwqT4qgNcqUuWW7IhRLUS7lAAOYDmdCr7fZClFI4x\nUZgIFC7wboZ9UqPwxaI2v34Zp7fehwTW1CcyNQNypYguS+TnLLqSD01lTiPlCFVz\naG+RVRyaX6wpkPdTLOtljLXfIBOP2OMtsZ9rEin1uIdi9w3nZtQ23Dbl8Donv7Wy\nWMcAf9NlusJ9bGNs7VpvgmBFUFFTeTO7Mz7/KHzCrQKBgQD1nNULONabynMTB0kT\nsYqNS+RWl53uv+w1MNMNrfK4Pm39XFFaZ3ugRnofdmNpbfly61s+31tocZmaw3dy\ngj3Um+dj6bXXCtpX1ETUevM8mYidhaxCz6eO6J4YVtWBHcIzoiAi4VDpw0ya0ewv\n7GBuhJJYkixg3rxw+iScDN25mwKBgQDttTU9iTSETRJc5x6HRQVhJgxhGRzn/Isx\nNhZeecMwIjSuMmCfXPVf9FDl3lltGeuWEeaODCfZ223vkjAG1EAxpZW7EVUlHZXn\nWt3EMbBwLHXDz0embxYBn+y/VR/FJXZYmWBZ2dIkD3YCqaK0zIfvEx+H3aZpQIye\nlxgnWyC5gwKBgQCQFmyJQ9Pq2068+AYv7nTYxY/0GMhHGwKIhdca7FQ7MCy4eOMl\nBRZqhU35jStu21x+xYHnFYN7d0FkoI0/eRaq1rddTusld7F12wpyGJr/jxatSpEv\nNMEYvnCY2MAyGfIm9lKiA8rDCJa1MLe9uY8s5ssv+LjeL20fXjAB+C5PRwKBgQDn\n8cU9gj/oSHv+gtZbD5IsNUAnDqYSB26aWjiBfzZiJT5aK3X0inQzaOX3JnsD5iLm\nkBjzyhCol2AyP+b1Au6Qgw4TNtpqGPBIi3WRFxsemYNfyUYUtJg4haAxIhKZ/+/2\ni9JkWhKedSeleXj2Cg0pzvMZU8IpOX780FoVLOpFmQKBgQCGGdYIgnQA+y6/kDf3\n3ruG22xBdzcpZ3L+DBkOauXyNNPWEmC9Uc4VgfK6zoz2LZm2StEf41ReqKHQs3re\ngI57TKT79e7gdVmZivXmho9NS5RjK5ycIv21wGSIy36LYsNpDBsQCPqDmf7QFEj7\n4ijnqpKjJpHKeQ/owpyS+J21yA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sciencedayproject@omega-metric-340408.iam.gserviceaccount.com",
+  "client_id": "109682692112657491887",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sciencedayproject%40omega-metric-340408.iam.gserviceaccount.com"
+}
